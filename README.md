@@ -208,7 +208,7 @@ B.Tech Cyber Security Student | Java & Cryptography Enthusiast
 
 ## 🪪 License
 
-This project is open-source and available under the **MIT License**.
+This project is open-source and available under the [**MIT License**](LICENSE).
 Feel free to use, modify, and share — but please give credit. 🙌
 
 ## 🧷 Future Enhancements
